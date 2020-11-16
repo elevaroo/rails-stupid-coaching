@@ -1,0 +1,19 @@
+// Place all the styles related to the questions controller here.
+ $gray: #F4F4F4;
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+body {
+   background: $gray; // Using this variable
+ }
+
+div {
+  border-left: solid 8px white;
+  margin: 5px;
+  padding: 5px;
+
+}
+.answer {
+  background-color: #f9f7cf
+}
